@@ -5,7 +5,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Aleluya, los cielos y la tierra"
-	subtitle = "Soprano"
+	instrument = "Soprano"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
