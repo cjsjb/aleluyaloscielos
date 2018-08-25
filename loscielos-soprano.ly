@@ -4,7 +4,8 @@
 % point and click debugging is disabled
 #(ly:set-option 'point-and-click #f)
 \header {
-	title = "Aleluya, los cielos y la tierra"
+	title = "Aleluya"
+	subtitle = "Los cielos y la tierra"
 	instrument = "Soprano"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
