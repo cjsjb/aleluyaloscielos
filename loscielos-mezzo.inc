@@ -38,7 +38,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "mezzosoprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "mezzosoprano" {
 		¡A -- le -- lu __ ya,
 		a -- le -- lu __ ya!
 		Los cie -- los y la tie -- rra te can -- tan,

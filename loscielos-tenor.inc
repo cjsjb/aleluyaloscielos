@@ -38,7 +38,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "tenor" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "tenor" {
 		¡A -- le -- lu __ ya,
 		a -- le -- lu __ ya!
 		Los cie -- los y la tie -- rra te can -- tan,
