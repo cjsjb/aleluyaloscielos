@@ -1,4 +1,3 @@
-\include "english.ly"
 \version "2.10.0"
 #(ly:set-option 'point-and-click #f)
 \header {

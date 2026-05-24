@@ -15,27 +15,26 @@
 		\time 4/4
 		\clef "treble"
 		\key e \major
-
 		R1*2  |
-		r2 gs' 4 a'  |
-		gs' 2. ( e' 8 ) fs' ~  |
+		r2 gis' 4 a'  |
+		gis' 2. ( e' 8 ) fis' ~  |
 %% 5
-		fs' 2 gs' 4 a'  |
-		gs' 2. ( e' 8 ) a' ~  |
+		fis' 2 gis' 4 a'  |
+		gis' 2. ( e' 8 ) a' ~  |
 		a' 2 r4 r8 a'  |
 		a' 8 a' a' a' a' a' a' b' ~  |
 		b' 8 b' 4 b' 8 b' 4 b'  |
 %% 10
 		a' 1 ~  |
-		a' 4 r gs' a'  |
-		gs' 2. ( e' 8 ) fs' ~  |
-		fs' 2 gs' 4 a'  |
-		gs' 2. ( e' 8 ) a' ~  |
+		a' 4 r gis' a'  |
+		gis' 2. ( e' 8 ) fis' ~  |
+		fis' 2 gis' 4 a'  |
+		gis' 2. ( e' 8 ) a' ~  |
 %% 15
 		a' 2 r4 r8 a'  |
 		a' 8 a' a' a' a' a' a' b' ~  |
 		b' 8 b' 4 b' 8 b' 4 b'  |
-		gs' 1  |
+		gis' 1  |
 		R1  |
 		\bar "|."
 	}
